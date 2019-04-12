@@ -1,0 +1,13 @@
+{
+    "name": "zerto/quete_twig",
+    "authors": [
+        {
+            "name": "Maxime Vasseur",
+            "email": "zertouflex@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+
+}
